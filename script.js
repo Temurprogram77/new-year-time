@@ -1,4 +1,3 @@
-// Yangi yilni hisoblash
 const newYear = new Date('January 1, 2025 00:00:00').getTime();
 
 const countdown = setInterval(function() {
